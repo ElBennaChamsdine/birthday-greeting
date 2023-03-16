@@ -1,0 +1,36 @@
+{
+    "users":[
+            {
+            "first_name": "Benoit",
+            "last_name": "Gantaume",
+            "date_of_birth": "15/3/1979",
+            "email": "benoit@artisandeveloppeur.fr",
+            "notification_type": "sms",
+            "phone_number":"0600000000"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Doe",
+            "date_of_birth": "12/11/1900",
+            "email": "john.doe@gmail.com",
+            "notification_type": "email",
+            "phone_number":"0600000001"
+        },
+        {
+            "first_name": "Bill",
+            "last_name": "Dilbert",
+            "date_of_birth": "11/12/1900",
+            "email": "john.doe@gmail.com",
+            "notification_type": "smsemail",
+            "phone_number":"0600000002"
+        },
+        {
+            "first_name": "Emile",
+            "last_name": "Poli",
+            "date_of_birth": "",
+            "email": "emile.poli@gmail.com",
+            "notification_type": "sms",
+            "phone_number":"0600000003"
+        }
+    ]
+}

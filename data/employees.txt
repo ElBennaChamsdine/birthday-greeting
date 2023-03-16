@@ -1,0 +1,6 @@
+first_name, last_name, date_of_birth, email, notification_type, phone_number
+Benoit, Gantaume, 15/3/1979, benoit@artisandeveloppeur.fr, sms, 0600000000
+John, Doe, 12/11/1900, john.doe@gmail.com, email, 0600000001
+Bill, Dilbert, 15/3/1900, john.doe@gmail.com, smsemail, 0600000002
+Emile, Poli, , emile.poli@gmail.com, sms, 0600000003
+No, Email
