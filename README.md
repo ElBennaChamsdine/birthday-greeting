@@ -1,6 +1,24 @@
 # birthday-greeting
 This is a simple PHP application that reads a list of employees from a CSV file and sends them a birthday message if their birthday is today. The app supports sending notifications via email, SMS, or both.
 
+
+
+## Installation
+1. Clone the repository to your local machine
+```git clone https://github.com/votre-nom/birthday-greeting.git``` .
+
+2. Navigate to the project directory
+```cd birthday-greeting``` .
+
+3. Install dependencies using Composer
+```composer install``` .
+
+4. Run the program
+```php src/App.php``` .
+
+5. Run the test
+```./vendor/bin/phpunit tests\EmployeeProviderTest.php``` .
+
 ## Usage
 To use the app, simply call the App::run() method:
 
